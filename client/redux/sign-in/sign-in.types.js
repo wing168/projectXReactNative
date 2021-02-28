@@ -1,0 +1,6 @@
+export const signInActionTypes = {
+    AUTHENTICATE_USER: 'AUTHENTICATE_USER',
+    SIGN_IN_FAILURE: 'SIGN_IN_FAILURE',
+    SET_USER_ID: 'SET_USER_ID',
+    
+}
